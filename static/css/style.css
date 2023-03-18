@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+}
